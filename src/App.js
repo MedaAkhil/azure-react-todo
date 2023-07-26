@@ -6,7 +6,7 @@ function App() {
     <center>
       <div className="App">
       <header className="App-header">
-        <h1>My Todo App</h1>
+        <h1>Akhil's Todo App</h1>
       </header>
       <main>
         <TodoList />
